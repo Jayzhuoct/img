@@ -1,6 +1,6 @@
 # img
 
-:octocat:基于PicGo + jsDelivr的GitHub图床仓库
+:octocat:基于PicGo + jsDelivr的GitHub自用图床仓库
 
 ### 使用
 ```
